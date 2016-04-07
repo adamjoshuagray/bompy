@@ -7,4 +7,5 @@ setup(name='bompy',
       author='Adam J. Gray',
       author_email='adam.joshua.gray@gmail.com',
       license='MIT',
+      install_requires=['pandas'],
       zip_safe=False)
