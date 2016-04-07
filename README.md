@@ -1,6 +1,6 @@
 # bompy
 A light python wrapper around the json api provided by the www.bom.gov.au for Australian weather data.
-### Note that this is an unofficial api and is in no way supported by or affiliated with the Australian Bureau of Meteorology.
+**Note that this is an unofficial api and is in no way supported by or affiliated with the Australian Bureau of Meteorology.**
 
 You can either use `bompy.Client` to make cached calls or simply make direct calls with 
 `get_station`, `get_station_dataframe` or `get_station_last_update`. 
