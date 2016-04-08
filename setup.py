@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(name='bompy',
-      version='0.1.1',
-      packages=[''],
+      version='0.1.2',
+      py_modules=['bompy'],
       description='A very light wrapper around the www.bom.gov.au weather data api.',
       url='https://github.com/adamjoshuagray/bompy',
       author='Adam J. Gray',
